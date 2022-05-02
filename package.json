@@ -1,0 +1,24 @@
+{
+  "name": "slate-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run update-tailwind && MINIMAL=1 CSB=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "update-tailwind": "rm ./node_modules/@nuxt/content-theme-docs/src/tailwind.config.js && cp ./tailwind.config.js ./node_modules/@nuxt/content-theme-docs/src/tailwind.config.js",
+    "generate": "npm run update-tailwind && nuxt generate",
+    "deploy": "npm run generate && firebase deploy"
+  },
+  "dependencies": {
+    "@babel/preset-env": "7.12.17",
+    "@nuxt/content-theme-docs": "0.7.2",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "nuxt": "2.14.7",
+    "rehype-katex": "^5.0.0",
+    "remark-math": "^4.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0"
+  }
+}
