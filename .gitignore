@@ -11,3 +11,4 @@ sw.*
 /dist/_nuxt/
 *.cache
 /dist/
+.docusaurus

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introducing Blankly
+# Introducing Blankly Slate
 
 <blockquote> Blankly is making quantitative finance more accessible for everyone </blockquote>
 
