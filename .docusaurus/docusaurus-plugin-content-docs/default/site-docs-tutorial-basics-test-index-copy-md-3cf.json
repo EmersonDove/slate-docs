@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/test/index copy",
+  "id": "tutorial-basics/test/index copy",
+  "title": "How to Do XYZABC",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/tutorial-basics/test/index copy.md",
+  "sourceDirName": "tutorial-basics/test",
+  "slug": "/tutorial-basics/test/index copy",
+  "permalink": "/tutorial-basics/test/index copy",
+  "editUrl": "https://github.com/blankly-finance/slate-docs/docs/tutorial-basics/test/index copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Do XYZ",
+    "permalink": "/tutorial-basics/test/"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/tutorial-basics/test/result"
+  }
+}

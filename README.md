@@ -1,34 +1,41 @@
-# Slate
+# Website
 
-## Setup
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Install dependencies:
+### Installation
 
-```bash
-yarn install
+```
+$ yarn
 ```
 
-### For Updated Font
+### Local Development
 
-For our specific font, make sure you go and update `./node_modules/@nuxt/content-theme-docs/src/tailwind.config.js`
-with the `./tailwind.config.js`.
-
-## Development
-
-```bash
-yarn dev
+```
+$ yarn start
 ```
 
-## Static Generation
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-This will create the `dist/` directory for publishing to static hosting:
+### Build
 
-```bash
-yarn generate
+```
+$ yarn build
 ```
 
-To preview the static generated app, run `yarn start`
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-**Note that we're using an older version of nuxt to generate the proper formatting.**
+### Deployment
 
-For detailed explanation on how things work, checkout [nuxt/content](https://content.nuxtjs.org) and [@nuxt/content theme docs](https://content.nuxtjs.org/themes-docs).
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
