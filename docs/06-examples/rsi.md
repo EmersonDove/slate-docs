@@ -96,9 +96,9 @@ def price_event(price, symbol, state: StrategyState):
 
 Now that we've gotten everything, let's bring it all together. Congrats! In just 20 lines of code, you've built a fully functional, backtestable trading algorithm.
 
-<alert type="success">
+:::tip
 One thing you'll begin to realize as you continue to develop with Blankly is that the majority of the Blankly code will stay the same "create a strategy, connect an exchange, run the model, etc.", all you have to do is focus on making a good model. Let us handle the rest.
-</alert>
+:::tip
 
 ```python
 
