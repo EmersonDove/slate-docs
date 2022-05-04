@@ -26,14 +26,12 @@ const config = {
           routeBasePath: '/',
           editUrl: 'https://github.com/blankly-finance/slate-docs',
         },
-        blog: false
-      }),
-      {
+        blog: false,
         gtag: {
           trackingID: '3543131248',
           anonymizeIP: true,
         }
-      }
+      })
     ],
   ],
 
