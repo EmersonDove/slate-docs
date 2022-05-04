@@ -12,3 +12,4 @@ sw.*
 *.cache
 /dist/
 .docusaurus
+/build/
