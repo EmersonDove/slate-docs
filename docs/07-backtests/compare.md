@@ -27,5 +27,6 @@ This will open up the comparison configuration with the backtest already selecte
 
 ### Step 3: Add on More Backtests
 To add on more backtests after you're already comparing backtests, click the **Add More Backtests** button on the **Comparing Backtests** page to open the comparison configuration.
+
 ![Add More Backtests](/img/backtests/compare/add_more_backtests.png)
 
