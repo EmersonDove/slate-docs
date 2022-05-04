@@ -47,8 +47,8 @@ const config = {
         },
         items: [
           
-          {to: '/guides', label: 'Guides', position: 'left'},
-          {to: '/api', label: 'API', position: 'left'},
+          {to: '/examples/MACD', label: 'Examples', position: 'left'},
+          {to: '/integrations/backtestingpy', label: 'Integrations', position: 'left'},
           {href: 'https://app.blankly.finance', label: 'Platform', position: 'left'},
           {href: 'https://package.blankly.finance', label: 'Package Docs', position: 'left'},
           {href: 'https://blankly.finance', label: 'Main Website', position: 'right'},
