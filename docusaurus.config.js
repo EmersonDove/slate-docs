@@ -28,6 +28,12 @@ const config = {
         },
         blog: false
       }),
+      {
+        gtag: {
+          trackingID: '3543131248',
+          anonymizeIP: true,
+        }
+      }
     ],
   ],
 
