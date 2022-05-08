@@ -8,12 +8,11 @@ When you share a backtest, you also share the entire model results / performance
 
 ## Sharing the Backtest
 
-To share an individaul backtest, click on the **Share Button** that is right above the account value graphs. The Share Button provides a link that shows a preview of the backtest and can be shared over the internet and social media. 
+To share an individual backtest, click on the **Share Button** that is right above the account value graphs. The Share Button provides a link that shows a preview of the backtest and can be shared over the internet and social media. 
 ## Embedding the Backtest
 
 You also have the option to embed the backtest result by clicking the **Embed Result** button where you have multiple options to showcase just the account value graphs, the metrics, or both. 
 
-
-
+![Embed Backtests](/img/teams/backtest-metrics.png)
 
 

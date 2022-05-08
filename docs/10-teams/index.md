@@ -8,7 +8,7 @@ Teams enables you to easily collaborate, and push backtests up together when wor
 
 You can create a team by hitting the dropdown in the top left and choosing "Create a Team":
 
-<insert image here>
+![Create Team](/img/teams/create-teams.png)
 
 Next you will be asked to name your team and provide corresponding details along with the members that you would like to invite. Clicking save and create will finalize and create the team.
 
