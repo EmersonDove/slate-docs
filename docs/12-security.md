@@ -2,8 +2,6 @@
 
 This page covers Blankly's security policies, protection, and compliance measures to ensure the security of your data and algorithms, this includes DDoS protection, pending SOC2 Type 2 Compliance, Data encryption, and infrastructure isolation.
 
-## DDoS Protection
-
 ## Infrastructure
 
 The Blankly Cloud and deployment platform primarily uses Google Cloud Platform and utilizes Google Kubernetes Engine (GKE) to actively manage, isolate, and secure code.
