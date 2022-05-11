@@ -14,5 +14,3 @@ To share an individual backtest, click on the **Share Button** that is right abo
 You also have the option to embed the backtest result by clicking the **Embed Result** button where you have multiple options to showcase just the account value graphs, the metrics, or both. 
 
 ![Embed Backtests](/img/backtests/backtest-metrics.png)
-
-

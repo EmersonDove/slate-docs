@@ -6,6 +6,10 @@ You can easily share your trading models with others to compare and monitor the 
 
 To share an individual model, click on the **Share** Button to the right of the Nav. From there you are able to select whether or no you want to generate a preview link and / or generate and embed link. Easily switching them on and off will allow you to share and embed the model wherever you like.
 
+Then, feel free to send the link to your co-workers, friends, or whoever you choose.
+
+If you ever feel like your model doing a bit *too good*, feel free to toggle the preview model to off and no-one will be able to see your model again, even those with the link.
+
 :::tip
 Sharing a model only provides view-only privileges and no edit access.
 :::
