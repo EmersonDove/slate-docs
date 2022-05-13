@@ -1,6 +1,6 @@
-# Sharing & Embedding Models
+# Sharing Models
 
-You can easily share your trading models with others to compare and monitor the results in real-time. We handle the fetching of data, calculationg of live metrics all for you. This allows you to send the model to viewers who may want to see model performance.
+You can easily share your past, paper, and or live trading models with others to compare and monitor the results in real-time. We handle the fetching of data, calculationg of live metrics all for you. This allows you to send the model to viewers who may want to see model performance. We also offer the ability to easily share or embed your models into other articles and websites via `iframe` embeds. Please reference the embed section for more details regaurding embedables. 
 
 ## Sharing the Model
 
@@ -15,5 +15,3 @@ Sharing a model only provides view-only privileges and no edit access.
 :::
 
 ![Share Model](/img/live/share-model.png)
-
-
