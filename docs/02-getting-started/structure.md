@@ -7,8 +7,6 @@ Let's start with some terminology. Models are your trading algorithms that can b
 
 After logging in, you will be greeted with a welcome screen prompting you to create your project and model. Fill out the name and description of your first project and model. Let our system know what stage you are in with building your trading algorithm and what backtesting framework you are using so it can better guide you. When you're ready, click \"Let's Get Started\" and your first model and project will be created.
 
-
-
 You will be redirected to your new project's dashboard. Here you will see your recently created model that has not been pushed to the cloud. Click on your model and you will be prompted with a setup page to get your trading algorithm up to the cloud.
 
 ## Setting up Your Model on Blankly Slate
