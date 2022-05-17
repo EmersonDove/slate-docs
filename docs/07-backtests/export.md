@@ -1,1 +1,0 @@
-# Exporting a Backtest to the Platform
