@@ -2,7 +2,7 @@
 
 To begin utilizing Slate Widgets, **ensure** that the **model or backtest** sharing feature is toggled before attempting any of the below. If you need assistance finding this toggle, please refer to the ```Sharing Model``` or ```Sharing Backtests``` sections for more information.
 
-Next, for the ```src``` section of your ```<iframe />``` or other similar component, you will be utilizing the ```/embed/[type]``` route from [app.blankly.finance](app.blankly.finance). Examples are shown below and the query parameters are further elaborated below.
+Next, for the ```src``` section of your ```<iframe />``` or other similar component, you will be utilizing the ```/embed/[type]``` route from [app.blankly.finance](https://app.blankly.finance). Examples are shown below and the query parameters are further elaborated below.
 
 | Query Parameter | Required? | Value  | Description                                                  |
 | :-------------- | --------- | ------ | ------------------------------------------------------------ |
